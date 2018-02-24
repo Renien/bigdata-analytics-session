@@ -30,14 +30,14 @@ Make sure you have installed,
 - Do you know how to identify people who have bought the same product together?
 - Do you know how *Associated Rule Mining*  algorithms are implemented on *Big Data*?
 
-<figure>
+<figure align="center">
     <img src="https://raw.githubusercontent.com/Renien/bigdata-analytics-session/master/blob/fp-tree-flow.png" alt="FP-Growth model data flow" >
-    <figcaption align="center">FP-Growth model data flow</figcaption>
+    <figcaption >FP-Growth model data flow</figcaption>
 </figure>
 
-<figure>
+<figure align="center">
     <img src="https://raw.githubusercontent.com/Renien/bigdata-analytics-session/master/blob/fp-tree-example.png" alt="How data is transformed" >
-    <figcaption align="center">How data is transformed</figcaption>
+    <figcaption >How data is transformed</figcaption>
 </figure>
 
 Get ready to experience the implementation of ML on Big Data!!!
@@ -61,6 +61,7 @@ Get ready to experience the implementation of ML on Big Data!!!
 - [Kasun]()
 - [Chamodi]()
 - [Cherani]()
+- [Renien](https://twitter.com/RenienJoseph)
 
 ## License
-MIT © [Renien](https://twitter.com/RenienJoseph)
+MIT
