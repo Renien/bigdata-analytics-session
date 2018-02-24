@@ -31,12 +31,12 @@ Make sure you have installed,
 - Do you know how *Associated Rule Mining*  algorithms are implemented on *Big Data*?
 
 <figure>
-    <img src="https://github.com/Renien/bigdata-analytics-session/blob/fp-tree-flow.png" alt="FP-Growth model data flow" >
+    <img src="https://raw.githubusercontent.com/Renien/bigdata-analytics-session/master/blob/fp-tree-flow.png" alt="FP-Growth model data flow" >
     <figcaption align="center">FP-Growth model data flow</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/Renien/bigdata-analytics-session/blob/fp-tree-example.png" alt="How data is transformed" >
+    <img src="https://raw.githubusercontent.com/Renien/bigdata-analytics-session/master/blob/fp-tree-example.png" alt="How data is transformed" >
     <figcaption align="center">How data is transformed</figcaption>
 </figure>
 
