@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/Renien/bigdata-analytics-session/master/doc/blob/big-and-ml.png" alt="article" width="20%" height="20%">
+<img src="https://raw.githubusercontent.com/Renien/bigdata-analytics-session/master/blob/big-and-ml.png" alt="article" width="20%" height="20%">
     <br>
         bigdata-analytics-session
     <br>
