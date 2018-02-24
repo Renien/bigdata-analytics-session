@@ -3,7 +3,7 @@
     <br>
         bigdata-analytics-session
     <br>
-  <h4 align="center">Big Data Analytics Sesssion</h4>
+  <h4 align="center">Big Data Analytics Session</h4>
 </h1>
 
 <p align="center">
@@ -20,21 +20,38 @@ Practical session on ML and ML on Big Data
 
 Make sure you have installed,
 - JDK 1.8+
-- Scala 2.10.*
+- Scala 2.11.*
 - Gradle 2.2+
 - Spark 2.2
+
+## Practical Session
+
+- Do you know how recommendation systems are implemented? 
+- Do you know how to identify people who have bought the same product together?
+- Do you know how *Associated Rule Mining*  algorithms are implemented on *Big Data*?
+
+<figure>
+    <img src="https://github.com/Renien/bigdata-analytics-session/blob/fp-tree-flow.png" alt="FP-Growth model data flow" >
+    <figcaption align="center">FP-Growth model data flow</figcaption>
+</figure>
+
+<figure>
+    <img src="https://github.com/Renien/bigdata-analytics-session/blob/fp-tree-example.png" alt="How data is transformed" >
+    <figcaption align="center">How data is transformed</figcaption>
+</figure>
+
+Get ready to experience the implementation of ML on Big Data!!!
 
 ## Directory Layout
 ```
 .
-├── LICENSE
-├── README.md
-└── books
-    ├── ml
-    │   ├── ml related books
-    └── ml-and-bigdata
-        ├── ml and big data related books
-
+├── books                                   --> study materials
+│   ├── ml
+│   │   ├── ml related books
+│   └── ml-and-bigdata
+│       ├── ml and big data related books
+└── data
+    └── formattedData.dat                   --> sample data
 ```
 
 ## Contribution
