@@ -54,6 +54,15 @@ Get ready to experience the implementation of ML on Big Data!!!
     └── formattedData.dat                   --> sample data
 ```
 
+## Sample Data
+
+We have gathered the clickstream data of products clicked by each user using an event tracker,
+
+<figure align="center">
+    <img src="https://raw.githubusercontent.com/Renien/bigdata-analytics-session/master/blob/sample-data.png" alt="Sample data" >
+    <figcaption >Sample data overview</figcaption>
+</figure>
+
 ## Contribution
 
 - [Vidura]()
